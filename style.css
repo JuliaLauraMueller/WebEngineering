@@ -3,3 +3,30 @@ th,
 td {
   border: 1px solid black;
 }
+
+h1 {
+  text-align: center;
+}
+
+.btn {
+  vertical-align: middle;
+  background-color: #0f411a;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.create-button {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
